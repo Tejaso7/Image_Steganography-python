@@ -1,8 +1,8 @@
-# ![Image Steganography](images/stegano-icon.png) Image Steganography
+# ![Image Steganography](https://www.skillrary.com/uploads/updatedimages/13171561728565.png) Image Steganography
 
 Welcome to the Image Steganography project! This tool allows you to hide secret messages within images, providing a fun and secure way to communicate.
 
-![Demo GIF](images/demo.gif)
+![Demo GIF](https://media.tenor.com/O8m4bFnFlAUAAAAC/hide-camouflage.gif)
 
 ## Table of Contents
 
@@ -35,9 +35,6 @@ Image Steganography is a Python-based tool for encoding secret messages into ima
   ```bash
   pip install -r requirements.txt
 
-```bash
-  git clone https://github.com/Tejaso7/Image_Steganography.git
-
 
 Run the application:
 
@@ -52,7 +49,8 @@ Decoding
 Explore More: For advanced usage, refer to the User Manual.
 
 Contributing
-We welcome contributions from the open-source community. Feel free to report issues, suggest improvements, or submit pull requests. Please check our Contributing Guidelines for more details.
+We welcome contributions from the open-source community. Feel free to report issues, suggest improvements, or submit pull requests. 
+Please check our Contributing Guidelines for more details.
 
  
 
